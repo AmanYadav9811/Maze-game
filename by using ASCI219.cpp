@@ -158,7 +158,7 @@ void showCongratulations() {
     cout << "#        CONGRATULATIONS!              #" << endl;
     cout << "#   You completed Level " << currentLevel << "!             #" << endl;
     cout << "#                                      #" << endl;
-    cout << "#   Final Score: " << score << "                     #" << endl;
+    cout << "#   Final Score: " << score << "                    #" << endl;
     cout << "#   Moves Taken: " << movesTaken << "                    #" << endl;
     cout << "#                                      #" << endl;
     cout << "#   Press any key to return to menu    #" << endl;
